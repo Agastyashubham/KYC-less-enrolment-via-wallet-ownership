@@ -21,6 +21,7 @@
     (match enrolled-status
       some-status (ok some-status)
       (ok false))))
-      
-      <img width="1893" height="963" alt="Screenshot 2025-08-12 163337" src="https://github.com/user-attachments/assets/88250464-b4f5-48c0-bcde-e24a4af92321" />
+      <img width="1893" height="963" alt="image" src="https://github.com/user-attachments/assets/453c7cf8-29f7-4fab-b0f9-171aa14fd338" />
+ST29J6M9TS2A1XNQ6REVTRG3PEXTAYT7NQ53VAMSK.KYC-less-Enrollment-via-Wallet-Ownership
+  
 
